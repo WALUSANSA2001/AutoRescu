@@ -1,0 +1,10 @@
+{
+  "name": "AutoRescue",
+  "description": "AutoRescue Uganda - Smart Emergency & Roadside Assistance Platform connecting motorists and accident victims with verified service providers in real time.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": [
+    "AI-driven design", 
+    "3D modeling simulation",
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
